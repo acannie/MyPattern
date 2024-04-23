@@ -1,6 +1,6 @@
 ## MyPattern for Web
 
-https://acannie.github.io/MyPattern-web/
+https://acannie.github.io/MyPattern/
 
 ## 環境
 
